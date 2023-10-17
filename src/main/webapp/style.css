@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: #8439ee;
+}
+form{
+    border: 4px outset cadetblue;
+    background-color: #db5bf6;
+    padding:1em;
+}
+wynik{
+    border: 4px outset #4ba6de;
+    background-color: #fa7c8f;
+    margin: 1em auto;
+    padding: 1em;
+
+}
